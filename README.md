@@ -9,5 +9,5 @@
 ### Jongcheon Park
 - Reinforcement Learning
 - Imitation Learning
-- Autonomous Robot
-- LiDAR, Camera processing
+- Deep Learning for Autonomous Robot
+- Sensor Fusion & Perception (LiDAR & Camera)
