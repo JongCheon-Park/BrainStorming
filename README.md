@@ -3,8 +3,8 @@
 ## User
 ### Seungyong Han
 - Model Predictive Control
-- Physics Informed Machine Learning
 - Sthocastic Optimal Control
+- Physics Informed Machine Learning
 
 ### Jongcheon Park
 - Reinforcement Learning
