@@ -2,7 +2,10 @@
 
 ## User
 ### Seungyong Han
-- Control Theory
+- Model Predictive Control
+- Physics Informed Machine Learning
+- Sthocastic Optimal Control
+
 ### Jongcheon Park
 - Reinforcement Learning
 - Imitation Learning
